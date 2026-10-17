@@ -1,11 +1,8 @@
-# # dataset path
-path: F:/visdrone2019
+# VisDrone2019 DET dataset path
+path: D:/Object_Detection/Data
 train: VisDrone2019-DET-train
-val:  VisDrone2019-DET-val
+val: VisDrone2019-DET-val
 test: VisDrone2019-DET-test-dev
 
-
-nc : 10
-names : ['pedestrian','people','bicycle','car','van','truck','tricycle','awning-tricycle','bus','motor']
-
-
+nc: 10
+names: ['pedestrian', 'people', 'bicycle', 'car', 'van', 'truck', 'tricycle', 'awning-tricycle', 'bus', 'motor']
