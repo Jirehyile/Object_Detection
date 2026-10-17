@@ -172,7 +172,7 @@ python -c "from ultralytics import RTDETR; model=RTDETR('ultralytics/cfg/modelY/
 - 成功生成 `best.pt`、`last.pt`、`results.csv` 和训练曲线；
 - 记录一个 epoch 的耗时和显存占用。
 
-冒烟训练只用于检查流程，不用于判断最终精度。
+冒烟训练只用于检查流程，不用于判断最终精度
 
 ## 阶段五 固定正式实验配置 [必须]
 
